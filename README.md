@@ -14,9 +14,15 @@ Then we check the overall data distribution using describe -
   1) Age ranges between 18 to 33 with average age being 25
   2) Insurance ranges from 10000 to 27000 with the average being 20,214.
 <br />
+
+https://github.com/SaiMounicaGudimella/Simple-Linear-Regression/blob/main/Scatterplot.png
+
 Next, we assign age to a variable X and premium to variable Y and draw a scatterplot.
 <br />
-![Age vs. Premium Scatterplot](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression/blob/ddbea2ad80d22411284afddd7728f42be41d8e5a/Scatterplot.png)
+
+
+![Age vs. Premium Scatterplot](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression/blob/main/Scatterplot.png)
+
 <br />
 
 The variables are reshaped and then split into train and test datasets in 70:30 ratio. This is <b>Model Training</b>. This is a small dataset used only to demonstrate the usage of SLR. However, real world datasets are humongous.
