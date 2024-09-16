@@ -32,7 +32,7 @@ To idenitfy how well our model predicts is evaluated through the comparison of t
 <br />
 
 <br />
-![Age vs. Premium Scatterplot with fitted regression line](Scatterplot%20with%20fitted%20line.png)
+![Age vs. Premium Scatterplot with fitted regression line](Scatterplot with fitted line.png)
 <br />
 
 The model we developed can be considered good. We have used RMSE(Root mean squared error) and R^2 (R square) as the evaluation metrics.
