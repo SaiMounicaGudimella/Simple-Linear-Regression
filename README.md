@@ -15,11 +15,8 @@ Then we check the overall data distribution using describe -
   2) Insurance ranges from 10000 to 27000 with the average being 20,214.
 <br />
 
-https://github.com/SaiMounicaGudimella/Simple-Linear-Regression/blob/main/Scatterplot.png
-
 Next, we assign age to a variable X and premium to variable Y and draw a scatterplot.
 <br />
-
 
 ![Age vs. Premium Scatterplot](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression/blob/main/Scatterplot.png)
 
@@ -38,7 +35,9 @@ To idenitfy how well our model predicts is evaluated through the comparison of t
 <br />
 
 <br />
-![Age vs. Premium Scatterplot with fitted regression line](Scatterplot with fitted line.png)
+
+![Age vs. Premium Scatterplot with fitted regression line](https://github.com/SaiMounicaGudimella/Simple-Linear-Regression/blob/main/Scatterplot%20with%20fitted%20line.png)
+
 <br />
 
 The model we developed can be considered good. We have used RMSE(Root mean squared error) and R^2 (R square) as the evaluation metrics.
